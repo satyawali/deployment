@@ -1,0 +1,24 @@
+to create a virtual env >> conda create -n deployment_satya1 python==3.7  
+to check all env >> conda env list
+
+to activate the env >> conda activate deployment_satya1
+to deactivate the env >> conda deactivate deployment_satya1
+
+to install a library >> pip install <lib_name>==<version>
+to uninstall a library >> pip uninstall <lib_name>
+to upgrade a library >> pip install --upgrade <lib_name>==<version>
+
+**browser >> google >> search <numpy> pypi -> first url will open numpy all version
+
+flask installation >> pip install flask
+
+to save all the lib in a file >> pip freeze > requirements.txt
+to install library from file >> pip install -r <filename>
+
+to see the installed packages >> pip list
+
+# things to do
+1. revise all the basic concept of github and make sure it working on laptop
+2. create a account on heroku - https://signup.heroku.com/
+3. create a account on aws - https://portal.aws.amazon.com/billing/signup#/start
+4. learn basic html and css - w3school
